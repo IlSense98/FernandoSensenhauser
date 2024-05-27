@@ -1,7 +1,7 @@
 # Fernando Sensenhauser
 
 <div align="center">
-    <img src="https://github.com/IlSense98/FernandoSensenhauser/assets/148085463/5a021b9b-fded-4d07-ba7d-c09d4e06591d" width="250" />
+    <img src="https://github.com/IlSense98/FernandoSensenhauser/assets/148085463/5a021b9b-fded-4d07-ba7d-c09d4e06591d" width="750" />
 
 
 
