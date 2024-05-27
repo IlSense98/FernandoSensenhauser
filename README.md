@@ -1,5 +1,10 @@
 # Fernando Sensenhauser
 
+<div align="center">
+    <img src="https://github.com/IlSense98/FernandoSensenhauser/assets/148085463/5a021b9b-fded-4d07-ba7d-c09d4e06591d" width="250" />
+
+
+
 About Me
 Welcome to my GitHub profile! I'm Fernando Sensenhauser, an enthusiastic developer passionate about creating innovative solutions using Swift and C#. With a strong emphasis on teamwork, I thrive in collaborative environments where ideas flow freely, and everyone contributes to achieving common goals. As a fast learner, I am always eager to explore new technologies and methodologies to further enhance my skills and contribute to impactful projects.
 
