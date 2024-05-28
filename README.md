@@ -10,6 +10,7 @@
 Welcome to my GitHub profile! I'm Fernando Sensenhauser, an enthusiastic developer passionate about creating innovative solutions using Swift and C#. With a strong emphasis on teamwork, I thrive in collaborative environments where ideas flow freely, and everyone contributes to achieving common goals. As a fast learner, I am always eager to explore new technologies and methodologies to further enhance my skills and contribute to impactful projects.
 
 ***Skills***
+
 Languages: Swift, C#
 Development Tools: Xcode, Visual Studio
 Frameworks/Libraries: UIKit, SwiftUI.
