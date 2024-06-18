@@ -28,5 +28,5 @@ Career Growth: Seeking opportunities to take on new challenges and advance my ca
 
 Feel free to reach out to me via email at f.sensenhauser@gmail.com or connect with me on LinkedIn. https://www.linkedin.com/in/fernando-sensenhauser-9ab38b253/
 
-Thank you for visiting my GitHub profile!
+Thank you for visiting my GitHub profile! 
 
